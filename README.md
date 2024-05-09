@@ -15,6 +15,7 @@ CASE :-
 We are going to predict whether a credit card transaction is Legit ( Legal ) or Fraud.
 
 WORK FLOW :-
+
 Credit card data
 
 Data Pre Processing
