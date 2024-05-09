@@ -16,9 +16,15 @@ We are going to predict whether a credit card transaction is Legit ( Legal ) or 
 
 WORK FLOW :-
 Credit card data
+
 Data Pre Processing
+
 Data Analysis
+
 Train Test Split
+
 Logistic Regression Model
+
 Model Evaluation
+
 Predictive System
