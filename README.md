@@ -11,10 +11,10 @@ Here, comes the need for a system that can track the pattern of all the transact
 
 Today, we have many machine learning algorithms that can help us classify abnormal transactions. The only requirement is the past data and the suitable algorithm that can fit our data in a better form.
 
-CASE :-
+#CASE :-
 We are going to predict whether a credit card transaction is Legit ( Legal ) or Fraud.
 
-WORK FLOW :-
+#WORK FLOW :-
 
 Credit card data
 
